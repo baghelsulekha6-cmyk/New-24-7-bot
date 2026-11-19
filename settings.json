@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "RAISTAR",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Raistar",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "NVRLEGENDSSMP.aternos.me",
+    "port": 26620,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SoloPlayz"
     },
     "anti-afk": {
